@@ -1,6 +1,6 @@
 /*************************************************
 Project:                GM8804C-2_ARM
-File name:              Adaptation.c
+File name:              Adaptation.c 
 Description:            加料自适应相关功能
 Author:                 丛海旭
 Version:                1.0
